@@ -6,8 +6,6 @@ int main()
     fgets(nome, 50, stdin);
     printf("seu nome eh %s\n", nome);
 
-// comentário 
-
     return 0;
 }
 
