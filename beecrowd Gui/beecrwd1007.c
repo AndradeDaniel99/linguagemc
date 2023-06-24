@@ -1,4 +1,4 @@
-#import <stdio.h>
+#include <stdio.h>
 
 //calcular a diferença
 int main(){

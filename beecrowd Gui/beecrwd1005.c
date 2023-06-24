@@ -1,4 +1,4 @@
-#import <stdio.h>
+#include <stdio.h>
 
 //Como fazer a média de duas notas
 
