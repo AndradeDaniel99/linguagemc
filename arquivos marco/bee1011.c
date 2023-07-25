@@ -6,6 +6,7 @@ int main (){
     double pi = 3.14159;
     double esfera;
 
+
     scanf("%lf", &raio);
 
     esfera = ( (4.0/3) * pi * (raio * raio * raio));
