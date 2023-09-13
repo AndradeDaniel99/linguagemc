@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "Model/funcionario.h"
+#include "../Model/funcionario.h"
 
 void listar(Funcionario *funcionarios) {
     char entrada;

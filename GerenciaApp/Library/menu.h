@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-// #include "Model/funcionario.h"
+#include "../Model/funcionario.h"
 #include "cadastrar.h"
 #include "editar.h"
 #include "listar.h"
